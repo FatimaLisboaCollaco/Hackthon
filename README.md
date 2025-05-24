@@ -1,2 +1,4 @@
 # Hackthon
-Aprendendo a usar o Git e GihUb
+Aprendendo a usar o Git e GitHub.
+
+Sábado de aula na Etec de Iguape.
